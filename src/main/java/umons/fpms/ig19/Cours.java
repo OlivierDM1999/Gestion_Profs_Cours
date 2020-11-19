@@ -16,6 +16,7 @@ import java.util.ArrayList;
  *
  * @author noffa
  */
+//C'EST CHAUD
 public class Cours {
     private String intitule;
         String duree;
